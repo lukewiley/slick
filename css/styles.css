@@ -1,0 +1,36 @@
+/********************
+YOUR STYLES
+*******************/
+
+.slick-test {
+	width: 500px;
+	margin: 0 auto;
+padding: 10px;
+}
+
+.slick-auto {
+	width: 500px;
+	margin: 0 auto;
+	padding: 10px;
+}
+
+
+
+/********************
+MEDIA QUERIES
+*******************/
+
+/* Desktop */
+@media (min-width: 1200px) {
+
+}
+
+/* Tablet */
+@media (min-width: 768px) {
+
+}
+
+/* Mobile */
+@media (min-width: 480px) {
+
+}
