@@ -9,9 +9,14 @@ padding: 10px;
 }
 
 .slick-auto {
-	width: 500px;
+	width: 900px;
 	margin: 0 auto;
 	padding: 10px;
+}
+
+.slick-auto img {
+	height: 300px;
+	width: 300px;
 }
 
 
